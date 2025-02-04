@@ -2,8 +2,10 @@
 
 **`Software Engineer`**
 
-Olá, Mundo! Eu me chamo Misael Randley, tenho 24 anos e sou do Ceará. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Faculdade Descomplica.
+Olá, Mundo! Meu nome é Misael Randley! 
+Tenho 24 anos e sou do Ceará. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Faculdade Descomplica.
 
+• Inglês Avançado
 </p>
 
 ---
@@ -36,6 +38,22 @@ Olá, Mundo! Eu me chamo Misael Randley, tenho 24 anos e sou do Ceará. Atualmen
 />
 <img 
     align="left" 
+    alt="Next.js" 
+    title="Next.js"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Vue.js" 
+    title="Vue.js"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" 
+/>
+<img 
+    align="left" 
     alt="Python"
     title="Python" 
     width="30px" 
@@ -52,18 +70,26 @@ Olá, Mundo! Eu me chamo Misael Randley, tenho 24 anos e sou do Ceará. Atualmen
 />
 <img 
     align="left" 
-    alt="Next.js" 
-    title="Next.js"
+    alt="Rails" 
+    title="Rails"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-original-wordmark.svg" 
 />
 <img 
     align="left" 
-    alt="Vue.js" 
-    title="Vue.js"
+    alt="Photoshop" 
+    title="Photoshop"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Illustrator" 
+    title="Illustrator"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" 
 />
 </p>
