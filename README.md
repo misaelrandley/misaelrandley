@@ -3,7 +3,6 @@
 **`Engenheiro de Software`**
 
 Misael Randley
-
 Análise e Desenvolvimento de Sistemas
 
 • Inglês C1 (CEFR)
