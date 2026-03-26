@@ -82,8 +82,7 @@ Análise e Desenvolvimento de Sistemas
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" 
-/>
-
+    />
 </p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/misaelrandley/misaelrandley/output/github-snake-dark.svg" />
