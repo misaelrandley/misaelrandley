@@ -82,6 +82,7 @@ Análise e Desenvolvimento de Sistemas
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" 
 />
+
 </p>
 
 <picture>
