@@ -1,14 +1,7 @@
 ## Misael Randley
 
-**`Software Engineer`**
+**`Engenheiro de Software`**
 
-   ____  _   __                              _       _ 
-  / __ \| | /_/                             | |     | |
- | |  | | | __ _   _ __ ___  _   _ _ __   __| | ___ | |
- | |  | | |/ _` | | '_ ` _ \| | | | '_ \ / _` |/ _ \| |
- | |__| | | (_| | | | | | | | |_| | | | | (_| | (_) |_|
-  \____/|_|\__,_| |_| |_| |_|\__,_|_| |_|\__,_|\___/(_)
-                                                    
 Misael Randley
 Análise e Desenvolvimento de Sistemas
 
