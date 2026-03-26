@@ -42,19 +42,19 @@ Análise e Desenvolvimento de Sistemas
 />
 <img 
     align="left" 
-    alt="Next.js" 
-    title="Next.js"
+    alt="React" 
+    title="React"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
 <img 
     align="left" 
-    alt="Vue.js" 
-    title="Vue.js"
+    alt="Go" 
+    title="Go"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/goland/goland-original.svg" 
 />
 <img 
     align="left" 
@@ -64,21 +64,7 @@ Análise e Desenvolvimento de Sistemas
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-<img 
-    align="left" 
-    alt="Ruby" 
-    title="Ruby"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Rails" 
-    title="Rails"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-original-wordmark.svg" 
+
 />
 <img 
     align="left" 
