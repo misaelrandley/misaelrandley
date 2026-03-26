@@ -65,24 +65,6 @@ Análise e Desenvolvimento de Sistemas
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
-/>
-<img 
-    align="left" 
-    alt="Photoshop" 
-    title="Photoshop"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Illustrator" 
-    title="Illustrator"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" 
-    />
 </p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/misaelrandley/misaelrandley/output/github-snake-dark.svg" />
