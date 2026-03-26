@@ -74,6 +74,7 @@ Análise e Desenvolvimento de Sistemas
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" 
 />
+
 <img 
     align="left" 
     alt="Illustrator" 
@@ -84,7 +85,6 @@ Análise e Desenvolvimento de Sistemas
 />
 
 </p>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/misaelrandley/misaelrandley/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/misaelrandley/misaelrandley/output/github-snake.svg" />
