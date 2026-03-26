@@ -2,8 +2,15 @@
 
 **`Software Engineer`**
 
-Olá, Mundo! Meu nome é Misael Randley! 
-Tenho 25 anos e sou do Ceará. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Faculdade Descomplica.
+   ____  _   __                              _       _ 
+  / __ \| | /_/                             | |     | |
+ | |  | | | __ _   _ __ ___  _   _ _ __   __| | ___ | |
+ | |  | | |/ _` | | '_ ` _ \| | | | '_ \ / _` |/ _ \| |
+ | |__| | | (_| | | | | | | | |_| | | | | (_| | (_) |_|
+  \____/|_|\__,_| |_| |_| |_|\__,_|_| |_|\__,_|\___/(_)
+                                                    
+Misael Randley
+Análise e Desenvolvimento de Sistemas
 
 • Inglês C1 (CEFR)
 • Espanhol A2 (CEFR)
