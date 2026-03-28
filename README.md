@@ -7,7 +7,7 @@ Misael Randley
 Análise e Desenvolvimento de Sistemas
 
 • Inglês C1 (CEFR)
-• Espanhol A2 (CEFR)
+• Espanhol B1 (CEFR)
 • Japonês: N4 (JLPT)
 • Português Nativo
 </p>
