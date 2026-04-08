@@ -1,6 +1,6 @@
 ## Misael Randley
 
-**`Desenvolvedor Full Stack`**
+**`Engenheiro de Dados`**
 
 Misael Randley
 
