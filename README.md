@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <em>Eu transformo café em código.</em>
+  Eu transformo café em código.
 </p>
 
 <br/>
