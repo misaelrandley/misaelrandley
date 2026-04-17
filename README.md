@@ -2,6 +2,8 @@
   <h1>Misael Randley</h1>
 </div>
 
+<hr>
+
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Staatliches&pause=1000&color=C0FE04&center=true&width=435&lines=Desenvolvedor+Full+Stack" alt="Typing SVG" />
 </a>  
