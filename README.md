@@ -8,24 +8,9 @@
 </p>
 
 <p align="center">
-  <em>Meu nome é Misael Randley, </em>
+  <em>Meu nome é Misael Randley, estou 5º Período de Análise e Desenvolvimento de Sistemas.</em>
 </p>
 
-<br/>
-
-### ⚡ Sobre mim
-
-```javascript
-const dev = {
-    nome: "idk",
-    stack: ["JavaScript", "React", "Node", "Python"],
-    ferramentas: ["VSCode", "Git", "Docker", "Linux"],
-    cafe: true,
-    codando: true
-};
-```
-
-<br/>
 </p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/misaelrandley/misaelrandley/output/github-snake-dark.svg" />
