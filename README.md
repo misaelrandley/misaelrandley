@@ -7,9 +7,7 @@
 </a>  
 </p>
 
-<br/>
-
----
+<hr>
 
 Sou Misael Randley, estudante de Análise e Desenvolvimento de Sistemas na UniAmérica, com foco em Engenharia de Dados.
 Orquestro e desenvolvo pipelines de dados. Trabalho com Python, dbt, AWS, Airflow e APIs REST/Web Scraping para automação de processos de ingestão e transformação.
