@@ -1,5 +1,7 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Desenvolvedor+Full+Stack;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Staatliches&pause=1000&color=C0FE04&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full+Stack)](https://git.io/typing-svg)
+
+---
 
 Sou Misael Randley, estudante de Análise e Desenvolvimento de Sistemas na UniAmérica, com foco em Engenharia de Dados.
 Orquestro e desenvolvo pipelines de dados. Trabalho com Python, dbt, AWS, Airflow e APIs REST/Web Scraping para automação de processos de ingestão e transformação.
