@@ -1,15 +1,17 @@
 
 <div align="center">
-  <h1>Misael Randley</h1>
+  <h1>IDK</h1>
 </div>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Staatliches&pause=1000&color=C0FE04&width=435&lines=Desenvolvedor+Full+Stack" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Staatliches&pause=1000&color=C0FE04&width=435&lines=Desenvolvedor+Full+Stack" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
-  <em>Meu nome é Misael Randley, estou 5º Período de Análise e Desenvolvimento de Sistemas.</em>
+  <em>"Code is like humor. When you have to explain it, it’s bad."</em>
 </p>
+
+<br/>
 
 </p>
 <picture>
